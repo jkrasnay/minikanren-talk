@@ -1,0 +1,2 @@
+{:tasks
+ {start (clojure "-X minikanren-talk/start")}}
